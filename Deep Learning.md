@@ -5,4 +5,6 @@ problem with sigmoid activation function-*One of the major disadvantages of usin
 
 **logistic regression**
 
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
 
