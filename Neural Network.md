@@ -13,7 +13,14 @@
  https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
  **Random intialisation of weight is important**
+
+ 
  https://towardsdatascience.com/random-initialization-for-neural-networks-a-thing-of-the-past-bfcdd806bf9e
+
+
+ **forward and backward propagation**
+
+ Forward propagation sequentially calculates and stores intermediate variables within the computational graph defined by the neural network. It proceeds from the input to the output layer. Backpropagation sequentially calculates and stores the gradients of intermediate variables and parameters within the neural network in the reversed order. When training deep learning models, forward propagation and backpropagation are interdependent, and training requires significantly more memory than prediction.
 
 
  
