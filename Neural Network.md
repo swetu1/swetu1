@@ -12,5 +12,8 @@
 
  https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
+ **Random intialisation of weight is important**
+ https://towardsdatascience.com/random-initialization-for-neural-networks-a-thing-of-the-past-bfcdd806bf9e
+
 
  
