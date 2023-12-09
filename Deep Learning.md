@@ -23,5 +23,5 @@ Vectorization allows the elimination of the for-loops in python code. It is espe
 **Broadcasting**
 
 https://www.javatpoint.com/numpy-broadcasting
-
+ 
 
