@@ -24,5 +24,7 @@
 
  https://jonaslalin.com/2021/12/10/feedforward-neural-networks-part-1/
 
+ https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
+
 
  
