@@ -27,4 +27,23 @@
  https://community.deeplearning.ai/t/feedforward-neural-networks-in-depth/98811
 
 
+ **HyperParameter vs parameter**
+
+ **Bias and Varience** 
+
+ How to deal with high bias issue and low bias problem.
+
+ **Train,dev and test data**
+
+ how divding the dataset is helpful.
+
+ **overfitting** use **Regularization**
+ Types of Regularization 
+ https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+
+ Difference between Ridge and Lasso regularization.
+
+ **Dropout regularization**
+
+
  
