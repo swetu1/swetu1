@@ -31,7 +31,7 @@
 
  **Bias and Varience** 
 
- How to deal with high bias issue and low bias problem.
+ How to deal with high bias issue and High bias problem.
 
  **Train,dev and test data**
 
@@ -44,6 +44,8 @@
  Difference between Ridge and Lasso regularization.
 
  **Dropout regularization**
+
+ other way to reduce overfitting  is **Data Augmentation**
 
 
  
