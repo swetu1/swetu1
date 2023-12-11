@@ -22,5 +22,7 @@
 
  Forward propagation sequentially calculates and stores intermediate variables within the computational graph defined by the neural network. It proceeds from the input to the output layer. Backpropagation sequentially calculates and stores the gradients of intermediate variables and parameters within the neural network in the reversed order. When training deep learning models, forward propagation and backpropagation are interdependent, and training requires significantly more memory than prediction.
 
+ https://jonaslalin.com/2021/12/10/feedforward-neural-networks-part-1/
+
 
  
