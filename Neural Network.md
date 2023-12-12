@@ -47,5 +47,25 @@
 
  other way to reduce overfitting  is **Data Augmentation**
 
+ **How Normalizing input  improve the training  rate of the model**
+
+ The goal of normalization is to transform features to be on a similar scale which helps to stabilize the gradient descent step, allowing us to use larger learning rates or help models converge faster for a given learning rate. This improves the performance and training stability of the model.
+
+ **Vanishing and exploding of the gradients**
+
+
+ https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing#:~:text=this%20term%20gets%20extremely%20large,either%20vanishing%20or%20exploding%20gradients.
+ 
+ During backpropagation, the calculation of (partial) derivatives/gradients in the weight update formula follows the Chain 
+ Rule, where gradients in earlier layers are the multiplication of gradients of later layers:
+ As the gradients frequently become SMALLER until they are close to zero, the new model weights (of the initial layers) will be virtually identical to the old weights without any updates. As a result, the gradient descent algorithm never converges to the optimal solution. This is known as the problem of vanishing gradients.
+
+On the contrary, if the gradients get LARGER or even NaN as our backpropagation progresses, we would end up with exploding gradients having big weight updates, leading to the divergence of the gradient descent algorithm.
+
+ 
+  
+
+ 
+
 
  
