@@ -62,6 +62,12 @@
 
 On the contrary, if the gradients get LARGER or even NaN as our backpropagation progresses, we would end up with exploding gradients having big weight updates, leading to the divergence of the gradient descent algorithm.
 
+**varience in weight_intialisation for different activation functioN**
+
+**problem we face during batch gradient descent,stochastic gradient descent**
+
+**Advantage of using mini_batch stochastic gradient descent**
+
  
   
 
