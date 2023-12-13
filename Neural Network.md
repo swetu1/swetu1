@@ -68,6 +68,10 @@ On the contrary, if the gradients get LARGER or even NaN as our backpropagation 
 
 **Advantage of using mini_batch stochastic gradient descent**
 
+**Exponentially Weighted Average**--EWA basically is an important concept in deep learning and have been used in several optimisers to smoothen the noise of the data.
+
+https://medium.com/mlearning-ai/exponentially-weighted-average-5eed00181a09
+
  
   
 
