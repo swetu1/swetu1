@@ -72,6 +72,25 @@ On the contrary, if the gradients get LARGER or even NaN as our backpropagation 
 
 https://medium.com/mlearning-ai/exponentially-weighted-average-5eed00181a09
 
+
+**Bias** correction
+
+when the EWMA is initialized, there might be a bias because the initial estimate is based on fewer observations. To correct this bias, a correction term is introduced.
+
+
+**Gradient descent with momentum ,RMAPROP ,Adam optimization algorithms**
+
+
+Implementing **learning rate decay** and why it is important.
+
+
+**Batch normalisation** and its importance 
+
+
+**Softmax**
+
+
+
  
   
 
