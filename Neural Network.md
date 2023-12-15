@@ -78,7 +78,7 @@ https://medium.com/mlearning-ai/exponentially-weighted-average-5eed00181a09
 when the EWMA is initialized, there might be a bias because the initial estimate is based on fewer observations. To correct this bias, a correction term is introduced.
 
 
-**Gradient descent with momentum ,RMAPROP ,Adam optimization algorithms**
+**Gradient descent with momentum ,RMSPROP ,Adam optimization algorithms**
 
 
 Implementing **learning rate decay** and why it is important.
